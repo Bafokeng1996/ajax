@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Seach Error</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    <script type="text/javascript" src="javascript.js"></script>
+
+    </head>
+    <body>
+        <h2>Seach Error</h2>
+
+        <p>An error occurred while performing the search. Please try again.</p>
+
+        <p>Go back to <a href="index.html" class="link">application home</a>.</p>
+    </body>
+</html>
